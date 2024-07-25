@@ -1,0 +1,12 @@
+package com.softworld.autowiring;
+
+public class Heart 
+{
+	private String nameOfAnimal;
+	private int noOfHeart;
+	public void pump()
+	{
+		System.out.println("heart is pumping");
+		System.out.println("alive");
+	}
+}

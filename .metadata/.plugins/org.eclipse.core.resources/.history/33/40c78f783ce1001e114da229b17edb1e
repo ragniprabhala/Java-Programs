@@ -1,0 +1,5 @@
+package com.softworld.java8.functionalInterface;
+
+public class Calculator {
+
+}

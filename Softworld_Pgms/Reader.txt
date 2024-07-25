@@ -1,0 +1,1 @@
+These classes are used for reading and writing text data. Examples include FileReader, FileWriter, BufferedReader, and BufferedWriter.

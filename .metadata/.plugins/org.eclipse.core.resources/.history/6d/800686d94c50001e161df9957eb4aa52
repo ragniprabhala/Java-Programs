@@ -1,0 +1,19 @@
+package java_basic_programs;
+
+public class Soc {
+
+	public static void getDurationString(int sec)
+	{
+		double hr=sec/3600;
+		System.out.println(hr);
+	}
+	
+	public static void main(String[] args) 
+	
+	{
+		
+		getDurationString(48);
+		
+	}
+
+}
