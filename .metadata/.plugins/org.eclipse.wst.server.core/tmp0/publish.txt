@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sun Jul 14 13:03:33 CDT 2024
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ragni\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper-el\\9.0.88\\tomcat-jasper-el-9.0.88.jar=WEB-INF/lib/tomcat-jasper-el-9.0.88.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ragni\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper\\9.0.88\\tomcat-jasper-9.0.88.jar=WEB-INF/lib/tomcat-jasper-9.0.88.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ragni\\.m2\\repository\\org\\springframework\\spring-web\\5.1.1.RELEASE\\spring-web-5.1.1.RELEASE.jar=WEB-INF/lib/spring-web-5.1.1.RELEASE.jar
